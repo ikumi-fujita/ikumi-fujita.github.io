@@ -1,0 +1,147 @@
+body {
+  margin:0cm 1.5cm;
+  padding:0px;
+  background-color:white;}
+
+h1, h2, h3, h4 {
+  margin:10px 0px 5px 0px;
+  padding:0px;}
+
+h1 {
+  font-size:150%;}
+
+h2 {
+  background-color:#DDDDDD;
+  font-size:120%;
+  margin-top:1em;
+  margin-bottom:0.5em;
+  padding:1px 5px;}
+
+h3 {
+  font-size:100%;
+  text-decoration:underline;
+  padding:0px 5px;}
+
+h4 {
+  font-size:100%;
+  font-weight:normal;
+  text-decoration:underline;
+  padding:0px 5px;}
+
+ol, ul {
+  margin:5px 2em;
+  padding:0px;}
+
+li ul {
+  margin-top:0px;
+  list-style:open;}
+
+p {
+  margin:0em 5px 0.5em 5px;
+  padding:0px;
+  line-height:1.15em;
+  text-indent:0em;}
+
+img {
+  margin:0px 5px;
+  vertical-align:top;}
+
+img.at {
+  margin:0px;
+  vertical-align:bottom;
+  width:1em;
+  height:1em;}
+
+div.fig {
+  margin:0.5em 1em;
+  padding:0em 0.5em;
+  border-style:solid;
+  border-width:1px;
+}
+
+div.fig div.img {
+  margin:0.2em;
+  text-align:center;
+}
+
+div.fig strong {
+  font-family:Arial;
+}
+
+div.math {
+  text-align:center;
+  margin:0em 2em 0em 2em;}
+
+span.math {
+  display:block;
+  text-align:center;
+  margin:0.5em 2em;}
+
+span.small {
+  font-size:75%;}
+
+blockquote {
+  margin:0em 5px 0.5em 5px;
+  padding:0em 1em;
+  font-family:Times;
+  font-size:100%;
+  border-style:solid;
+  border-width:1px;}
+
+pre {
+  font-family:Monaco;
+  font-size:80%;}
+ 
+em {
+  font-weight:normal;
+  font-style:italic;}
+
+h1 em, h2 em, h3 em {
+  font-weight:bold;
+  font-style:italic;}
+
+strong em {
+  font-weight:bold;
+  font-style:italic;}
+
+strong {
+  font-weight:bold;}
+
+strong {
+  font-weight:bold;}
+
+cite {
+  font-style:italic;}
+
+table {
+  margin:0.5em 1em 1em 1em;
+  border:solid;
+  border-width:0px 0px 1px 0px;
+  border-collapse:collapse;
+}
+
+table tr.label {
+  border:solid;
+  border-width:0px 0px 1px 0px;
+}
+
+table tr.break {
+  border:solid;
+  border-width:1px 0px 0px 0px;
+}
+
+td {
+  padding:0.1em 0.5em;
+}
+
+address {
+  font-style:normal;
+  padding:0em 1em 1em 1em;}
+
+a {text-decoration:none;}
+
+a:link {color:#000088;}
+a:visited {color:#880000;}
+a:active {color:#FF0000;}
+a:hover {color:#FF0000;}
+a:focus {color:#FF0000;}
