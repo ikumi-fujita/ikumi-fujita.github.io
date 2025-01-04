@@ -1,1 +1,1 @@
-[Ikumi Fujita's personal website](https://ikumi-fujita.github.io/)
+- [Ikumi Fujita's personal website](https://ikumi-fujita.github.io/)
